@@ -1,4 +1,13 @@
-## Hi there 👋
+Biochemistry student (First Class, Sheffield Hallam) learning computational biology through Python.
+
+Currently working through CS50P and building bioinformatics tools.
+
+## Recent projects
+- [CS50P Problem Sets](link) - Python fundamentals
+- [Lab Data Analysis](link) - RT-qPCR processing pipeline
+
+## Interests
+Computational biology, data analysis, endurance training
 
 <!--
 **Miles-Teg03/Miles-Teg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
