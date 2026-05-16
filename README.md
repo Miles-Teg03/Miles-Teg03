@@ -4,7 +4,7 @@ Currently working through CS50P and building bioinformatics tools.
 
 ## Recent projects
 - [CS50P Problem Sets](link) - Python fundamentals
-- [Lab Data Analysis](link) - RT-qPCR processing pipeline
+- [Lab Data Analysis](link) - [WIP]
 
 ## Interests
 Computational biology, data analysis, endurance training
