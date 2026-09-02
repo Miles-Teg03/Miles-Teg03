@@ -2,11 +2,12 @@
 
 Biochemistry student (First Class, Sheffield Hallam) learning computational biology through Python.
 
-Currently working through CS50P and building bioinformatics tools.
+Currently learning python through creating projects. Currently working on LADS: a program that cleans lab absorbance data and allows for statistical testing.
+
 
 ## Recent projects
-- [CS50P Problem Sets](link) - Python fundamentals
-- [Lab Data Analysis](link) - [WIP]
+
+- [LADS](https://github.com/Miles-Teg03/Lab-Absorbance-Data-Suite.git)
 
 ## Interests
 Computational biology, data analysis, endurance training
